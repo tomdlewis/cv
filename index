@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Tom Lewis - CV</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <h2>Tom Lewis</h2>
+    
+    <h3>Personal Statement</h3>
+
+    <p>A first-class graduate with nearly nine years of customer service experience with an aptitude for technology and a passion for learning and self-improvement, I undertake self-studying to advance my knowledge in technology and related fields such as Information Technology and Information Security. I use resources such as ITPro.TV and Udemy. My current employment with Tesco Mobile as a sales advisor allows me to practice and refine customer service skills, research skills and working with daily and weekly targets. My roles at Tesco and Tesco Mobile gave me invaluable experience of accountability, due diligence and working to a deadline.</p>
+
+    <hr>  
+
+    <h3>Key Skills</h3>
+    <p> 
+•	Knowledge of Windows File Systems (FAT, NTFS)<br>
+•	Windows, Mac, and Linux user<br>
+•	PC proficient<br>
+•	Microsoft Word & Microsoft Excel<br>
+•	PC / Laptop Upgrading / Updating<br>
+•	Technology Sales<br>
+•	Customer Service<br>
+•	Technology Research <br>
+•	Receptive to feedback<br>
+•	Basic HTML and CSS<br>
+•	Basic Active Directory Administration<br>
+•	Basic Configuration of Cisco Routers & Switches<br>
+</p>
+
+    <hr>
+    
+    <h3>Employment History</h3>
+
+    <table>
+<tr>
+    <th>Company</th>
+    <th>Role</th>
+    <th>Duration</th>
+</tr>
+
+<tr>
+    <td>Bedford College</td>
+    <td>Technician - Computing</td>
+    <td>June 2023 - Present</td>
+</tr>
+
+<tr>
+    <td>Bedford College</td>
+    <td>Voluntary IT Technician</td>
+    <td>Feburary 2022 - September 2022</td>
+</tr>
+
+<tr>
+    <td>Tesco Mobile</td>
+    <td>Sales Advisor</td>
+    <td>Feburary 2017 - June 2023</td>
+</tr>
+
+<tr>
+    <td>Tesco</td>
+    <td>General Assistant</td>
+    <td>December 2014 - Feburary 2017</td>
+</tr>
+
+    </table>
+
+
+
+
+    
+    <h3>Education</h3>
+
+<hr>
+
+    <table>
+<tr>
+
+    <th>Name</th>
+    <th>Institution</th>
+    <th>Year Awarded</th>
+
+</tr>
+
+<tr>
+    <td>Cisco IT Essentials</td>
+    <td>Bedford College</td>
+    <td>2021</td>
+</tr>
+
+<tr>
+    <td>Certified Forensic Investigation Practitioner</td>
+    <td>7 Safe / PA Consulting</td>
+    <td>2019</td>
+</tr>
+
+<tr>
+
+    <td>Music Technology (BA Hons)</td>
+    <td>University of Bedfordshire</td>
+    <td>2015</td>
+    
+
+</tr>
+
+<td>Music Technology (Foundation Degree)</td>
+<td>Bedford College</td>
+<td>2014</td>
+
+<tr>
+
+    
+
+<td>Music Technology (BTEC Extended Diploma)</td>
+<td>Bedford College</td>
+<td>2012</td>
+    
+
+</tr>
+
+<tr>
+<td>Harlington Upper School</td>
+<td>Passes in the following subjects <br>
+    •	English<br>
+    •	Mathematics<br>
+    •	BTEC Science<br>
+    •	OCR Level 2 National First Certificate in ICT<br>
+    •	Music <br>
+    •	Media Studies<br>
+    •	Religious Studies<br>
+    •	Drama Studies<br>
+    </td>
+    <td>2010</td>
+</tr>
+
+</table>
+
+    <hr>
+  
+</body>
+
+<footer>&copy; 2023 Tom Lewis  </footer>
+
+</html>
